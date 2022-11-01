@@ -3,6 +3,11 @@ import sys
 import random as r
 #__________________________________________________________________________________________________________________________________________
 #testBranch
+<<<<<<< Updated upstream
+=======
+#testBranch2
+#stashTest
+>>>>>>> Stashed changes
 def Start():
     pg.init()
     sc = pg.display.set_mode((1200, 800))
